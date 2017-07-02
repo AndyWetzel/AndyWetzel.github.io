@@ -1,6 +1,7 @@
 body{
 	background-image: url("http://www.gdlinformatica.com/images/fondorojo1.jpg");
 	background-size: cover;
+  background-attachment: fixed;
 
 }
 
