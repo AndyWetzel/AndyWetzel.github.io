@@ -1,0 +1,65 @@
+body{
+	background-image: url("http://www.gdlinformatica.com/images/fondorojo1.jpg");
+	background-size: cover;
+
+}
+
+#rainbow{
+	text-align: center;
+  	color: black;
+ 	font-size: 50px;
+ 	font-weight: bold;
+ 	font-family: Arial black;
+}
+
+#tagline{
+	text-align: center;
+  	color: white;
+  	font-weight: bold;
+  	font-style: inherit;
+}
+
+.navbar {
+  background: black;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: black;
+  font-weight: 200;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.img-width {
+	width: 100%;
+}
